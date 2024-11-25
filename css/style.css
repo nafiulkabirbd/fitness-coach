@@ -220,3 +220,69 @@ nav a {
   border-radius: 18px;
 }
 /* run extra mile style end */
+
+/* team style start */
+.team-section {
+  background-color: #000;
+  padding-top: 88px;
+  margin: 0px auto;
+}
+
+.team-container {
+  width: 974px;
+  height: 775px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.1);
+  text-align: center;
+  margin-top: 58px;
+  margin-left: 275px;
+  padding: 50px;
+}
+
+.team-title {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.team-details {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.3px;
+  padding-top: 14px;
+}
+
+.trainer-container-1 {
+  display: flex;
+  gap: 50px;
+  padding-top: 30px;
+}
+
+.trainer-img {
+  width: 250px;
+  height: 250px;
+  border-radius: 18px;
+}
+
+.team-details-1 {
+  margin-top: -55px;
+  margin-left: -135px;
+}
+
+.trainer-name {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 900;
+}
+
+.trainer-details {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+}
+
+#trainer-container-2 {
+  margin-top: 20px;
+}
+/* team style end */
