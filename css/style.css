@@ -129,3 +129,51 @@ nav a {
   margin-left: 100px;
 }
 /* banner style end */
+
+/* habits style start */
+.habits-container {
+  text-align: center;
+  background-color: #000;
+  padding: 100px 200px;
+}
+
+.habits-title {
+  color: #fff;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.habits-details {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 14px;
+}
+
+.habits-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 58px;
+}
+
+.habits-img {
+  border-radius: 50%;
+}
+
+.hb-title {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 30px;
+}
+
+.hb-details {
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 6px;
+}
+/* habits style end */
